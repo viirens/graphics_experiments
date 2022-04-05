@@ -8,7 +8,7 @@
   <li>Physics Sims
     <ul>
       <li><a href="https://benjamincornwall.gitlab.io/graphics/physSim1">Gravity & Wind</a></li>
-      <li><a href="https://benjamincornwall.gitlab.io/graphics/physSim2">Orbit</a></li>
+      <li><a href="https://editor.p5js.org/viirens/full/obT4lkega">Orbit</a></li>
     </ul>
   </li>
   <li>Perlin Noise
